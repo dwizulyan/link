@@ -13,7 +13,7 @@ body{
 	margin: 80px auto 0px auto;
 }
 .link{
-	height: 80%;
+	height: 80vh;
 	text-align: center;
 	display: flex;
 	margin: 0px auto;
@@ -26,18 +26,26 @@ body{
 	color: white;
 	font-family: 'poppins',sans-serif;
 	font-weight: 600;
+	max-width: 250px;
 
 }
-.link li a{
-	padding: 10px 20px;
+.link .box{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	max-width: 250px;
+	height: 50px;
 	border: 2px solid white;
-	text-decoration: none;
-	font-family: 'poppins',sans-serif;
-	color: white;
 }
-.link li a:hover{
+.link a{
+	color: white;
+	font-family: 'poppins';
+	text-decoration: none;
+	font-weight: 500;
+}
+.link a:hover{
 	background: white;
-	color: #1c1c1c;
+	color: black;
 }
 .credit{
 	width: 100%;
