@@ -1,0 +1,21 @@
+[{
+        "name": "Facebook",
+        "link": "https://www.facebook.com/",
+        "status": "on"
+    },
+    {
+        "name": "Github",
+        "link": "https://github.com/dwizulyan/",
+        "status": "on"
+    },
+    {
+        "name": "Portfolio",
+        "link": "https://www.facebook.com/",
+        "status": "off"
+    },
+    {
+        "name": "Youtube",
+        "link": "https://www.youtube.com/channel/UCf7HJAo9WiKwwTLrYYG06BA",
+        "status": "on"
+    }
+]
